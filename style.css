@@ -25,7 +25,6 @@ a:hover{
     font-size: 5.55rem;
     letter-spacing: 0.55rem;
     color: rgb(1, 162, 82);
-    /* display: none; */
 }
 .harshavarthan-2{
     font-size: 5.55rem;
@@ -38,10 +37,6 @@ a:hover{
     letter-spacing: 0.2rem;
     position: relative;
     right: 10px;
-}
-pre{
-    margin-top: 2rem;
-    margin-bottom: 1rem;
 }
 body::-webkit-scrollbar {
     display: none;
