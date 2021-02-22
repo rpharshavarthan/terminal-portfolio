@@ -33,6 +33,12 @@ a:hover{
     color: rgb(1, 162, 82);
     display: none;
 }
+.domain{
+    font-size: 1.5rem;
+    letter-spacing: 0.2rem;
+    position: relative;
+    right: 10px;
+}
 pre{
     margin-top: 2rem;
     margin-bottom: 1rem;
