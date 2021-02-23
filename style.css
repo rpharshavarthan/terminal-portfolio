@@ -1,3 +1,7 @@
+#terminal{
+    margin-right: auto;
+    margin-left: auto;
+}
 body{
     background-color: black;
     /* background-color: white; */
@@ -12,22 +16,25 @@ body{
     overflow: auto;
 }
 a:link{
-    color: rgb(170, 170, 170);
+    color: rgb(137, 93, 237);
     text-decoration: none;
 }
 a:visited{
     color: rgb(170, 170, 170);
+    color: rgb(137, 93, 237);
 }
 a:hover{
     border-bottom-color: rgb(195, 195, 34);
+    border-bottom-color: rgb(137, 93, 237);
 }
+
 .harshavarthan-1{
-    font-size: 5.55rem;
+    font-size: 5.85rem; /*5.55*/
     letter-spacing: 0.55rem;
     color: rgb(1, 162, 82);
 }
 .harshavarthan-2{
-    font-size: 5.55rem;
+    font-size: 5.85rem;
     letter-spacing: 0.55rem;
     color: rgb(1, 162, 82);
     display: none;
@@ -66,7 +73,7 @@ body {
     text-align: justify;
 }
 .incorrect{
-    color: maroon;
+    color: red;
 }
 dl{
     margin: 0px;
@@ -84,16 +91,16 @@ dd{
 }
 .duration{
     font-size: 1rem;
-    /* position: relative;
-    bottom: 5px; */
+    position: relative;
+    bottom: 2.5px;
 }
 .underline{
     /* color: rgb(225, 106, 152); */
     border-bottom: 1px solid;
 }
 .highlight{
-    color: rgb(195, 195, 34);
-    /* color: rgb(225, 106, 152); */
+    color: rgb(225, 106, 152);
+    color: steelblue;
 }
 input {
     font-size: 1.25rem;
